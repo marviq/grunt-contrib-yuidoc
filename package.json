@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "yuidocjs": "git://github.com/iraytje/yuidoc.git"
+    "yuidocjs": "~0.3.53"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.2",
