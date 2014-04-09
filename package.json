@@ -1,7 +1,7 @@
 {
   "name": "grunt-contrib-yuidoc",
   "description": "Compile YUIDoc Documentation.",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "homepage": "https://github.com/gruntjs/grunt-contrib-yuidoc",
   "author": {
     "name": "Grunt Team",
@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "yuidocjs": "~0.3.45"
+    "yuidocjs": "git://github.com/iraytje/yuidoc.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.2",
