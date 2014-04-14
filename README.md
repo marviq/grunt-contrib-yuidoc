@@ -17,7 +17,7 @@ npm install grunt-contrib-yuidoc-iq --save-dev
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-contrib-yuidoc');
+grunt.loadNpmTasks('grunt-contrib-yuidoc-iq');
 ```
 
 *This plugin was designed to work with Grunt 0.4.x.
