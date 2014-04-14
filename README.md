@@ -1,6 +1,6 @@
-# grunt-contrib-yuidoc v0.5.2 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc.png?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc) <a href="https://ci.appveyor.com/project/gruntjs/grunt-contrib-yuidoc"><img src="https://ci.appveyor.com/api/projects/status/ndcpmex6s8yn9er6/branch/master" alt="Build Status: Windows" height="18" /></a>
+# grunt-contrib-yuidoc-iq v0.1.0 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc.png?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc) <a href="https://ci.appveyor.com/project/gruntjs/grunt-contrib-yuidoc"><img src="https://ci.appveyor.com/api/projects/status/ndcpmex6s8yn9er6/branch/master" alt="Build Status: Windows" height="18" /></a>
 
-> Compile YUIDoc Documentation.
+> A custom version of grunt-contrib-yuidoc which uses the custom version of YuiDoc from Marviq.
 
 
 
@@ -54,19 +54,7 @@ grunt.initConfig({
 
 ## Release History
 
- * 2014-03-12   v0.5.2   Make sure to write JSON data with 'parseOnly'
- * 2014-02-24   v0.5.1   Fixes 'parseOnly' callback
- * 2013-09-01   v0.5.0   Catches and reports errors thrown by YUIDoc with grunt.warn.
- * 2013-02-15   v0.4.0   First official release for Grunt 0.4.0.
- * 2013-01-23   v0.4.0rc7   Updating grunt/gruntplugin dependencies to rc7. Changing in-development grunt/gruntplugin dependency versions from tilde version ranges to specific versions.
- * 2013-01-09   v0.4.0rc5   Updating to work with grunt v0.4.0rc5.
- * 2012-10-12   v0.3.2   Rename grunt-contrib-lib dep to grunt-lib-contrib.
- * 2012-10-01   v0.3.1   Project options are parsed as templates.
- * 2012-09-23   v0.3.0   Options no longer accepted from global config key.
- * 2012-09-10   v0.2.0   Refactored from grunt-contrib into individual repo.
+ * 2014-04-12   v0.1.0   Initial version
 
 ---
 
-Task submitted by [George Pantazis](http://georgepantazis.com/)
-
-*This file was generated on Tue Apr 08 2014 17:03:34.*
