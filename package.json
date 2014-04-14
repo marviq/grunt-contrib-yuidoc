@@ -1,7 +1,7 @@
 {
   "name": "grunt-contrib-yuidoc-iq",
   "description": "A custom version of grunt-contrib-yuidoc by Marviq.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/marviq/grunt-contrib-yuidoc-iq",
   "author": {
     "name": "Grunt Team",
