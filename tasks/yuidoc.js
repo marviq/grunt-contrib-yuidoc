@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     var fs = require('fs');
     var path = require('path');
     var kindOf = grunt.util.kindOf;
-    var Y = require('yuidocjs');
+    var Y = require('yuidoc-iq');
     var done = this.async();
     var starttime = Date.now();
     var json;
