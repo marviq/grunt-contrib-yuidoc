@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git://github.com/marviq/grunt-contrib-yuidoc-iq.git"
   },
+
+  "publishConfig": {
+    "registry": "http://npm.marviq.net:5984/registry/_design/app/_rewrite"
+  },
+
   "bugs": {
     "url": "https://github.com/marviq/grunt-contrib-yuidoc-iq/issues"
   },
