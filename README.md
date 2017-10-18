@@ -1,4 +1,8 @@
-# grunt-contrib-yuidoc-iq v0.1.0 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc.png?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-yuidoc) <a href="https://ci.appveyor.com/project/gruntjs/grunt-contrib-yuidoc"><img src="https://ci.appveyor.com/api/projects/status/ndcpmex6s8yn9er6/branch/master" alt="Build Status: Windows" height="18" /></a>
+# grunt-contrib-yuidoc-iq v0.1.0
+
+
+## NOTE: Development on this fork has been discontinued and its published npm package deprecated.  Newly generated [Backbone Application Template web apps](https://github.com/marviq/generator-bat) will, as of version `1.0.0`, no longer install this dependency. Please use the [stock version](https://github.com/gruntjs/grunt-contrib-yuidoc) instead.
+
 
 > A custom version of grunt-contrib-yuidoc which uses the custom version of YuiDoc from Marviq. This package is
 available on Marviq's private NPM server.
